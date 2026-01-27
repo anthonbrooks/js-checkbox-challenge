@@ -11,13 +11,11 @@ function handleCheck(e) {
         checkboxes.forEach(checkbox => {
             if (checkbox === this || checkbox === lastChecked) {
                 inBetween = !inBetween;
-                console.log('Inbetween');
             }
 
             if (inBetween) {
                 checkbox.checked = true;
             }
-            console.log(checkbox);
         });
     }
 
