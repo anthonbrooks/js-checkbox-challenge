@@ -1,5 +1,5 @@
-# web-app-template-html-css-js
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
+# JS Checkbox Challenge
+This project is an introduction to using JavaScript to select multiple inputs simultaneously.
 
 **Link to project:** http://recruiters-love-seeing-live-demos.com/
 
@@ -7,18 +7,22 @@ Write a short sentence or two about this project and what it does. Be sure to in
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, Framework of choice
+**Tech used:** HTML, CSS, JavaScript
 
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+HTML provides the input fields and content.
+
+CSS styles the page to look like a checklist in a notebook.
+
+JavaScript allows the user to select multiple checkboxes by holding the shift key while selecting two checkboxes.
 
 ## Optimizations
 *(optional)*
 
-You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
+I would like to add features to allow the user to edit list items. Also, they will be able to add new items and delete items from the list as well as move itmes to different categories.
 
 ## Lessons Learned:
 
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *wow I actually did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+So many things we take for granted on the web, I always thought that being able to select multiple emails in GMail was a default feature. I thought that upon making multiple checkboxes on my webpage that would be an innate feature. With this project, I learned how to implement that functionality so that I can create more responsive webapps.
 
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
